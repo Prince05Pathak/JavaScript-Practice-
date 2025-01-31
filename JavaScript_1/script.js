@@ -35,7 +35,7 @@
 
 //String Methods
 
-let firstname4 = "Prince";
+// let firstname4 = "Prince";
 // //Trim
 // console.log(firstname4.length);
 // let newString = firstname4.trim();
@@ -123,7 +123,71 @@ let firstname4 = "Prince";
 //     console.log("Age is not defined")
 // }
 
-let age = 12;
-let drink = age >=15 ?"coffee" : "milk";
-console.log(drink);
+// let age = 12;
+// let drink = age >=15 ?"coffee" : "milk";
+// console.log(drink);
+// console.log("Hello");
+
+// // And or operator 
+// let firstName = "rince";
+// let age = 2;
+// if (firstName[0]==="P" || age >18 ){
+//     console.log("Name starts with P and age above 18")
+
+// }
+
+
+// // Switch statement
+// let day =1;
+
+// switch(day){
+//     case 0:
+//         console.log("Sunday");
+//         break;
+        
+//     case 1:
+//         console.log("Monday");
+//         break;
+        
+//     case 2:
+//         console.log("Tuesday");
+//         break;
+//     case 3:
+//         console.log("Wednesday");
+//         break;
+//     case 4:
+//         console.log("Thursday");
+//         break;
+//     case 5:
+//         console.log("Friday");
+//         break;
+//     case 6:
+//         console.log("Saturday");
+//         break;
+//     default:
+//         console.log("Invalid day");
+
+// }
+console.log("hello");
+// // While Loop 
+
+// let i =0;
+
+// while(i<=6){
+//     console.log(i);
+//     i++;
+// }
+
+// //For loop
+
+// for(let i=0;i<=9;i++){
+//     console.log(i);
+// }
+
+// let total = 0;
+// let num =100;
+// for(let i=1; i<=num;i++ ){
+//     total = total + i ;
+// }
+// console.log(total);
 
