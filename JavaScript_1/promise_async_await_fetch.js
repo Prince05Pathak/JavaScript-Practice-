@@ -1,4 +1,4 @@
-console.log("This is about promise, async , await and fetch API in js");
+// console.log("This is about promise, async , await and fetch API in js");
 
 
 // console.log('Script Start ...........')
